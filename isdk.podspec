@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
 s.name                  =   "isdk"
-s.version               =   "1.0.0"
+s.version               =   "1.0.1"
 s.summary               =   "SDK for iOS Application Testing."
 s.description           =   "A super easy way to record and upload your experience and help organization make their products better!"
 s.homepage              =   "http://www.uxarmy.com"
